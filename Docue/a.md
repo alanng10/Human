@@ -1,10 +1,10 @@
 # Human
 
-Human is most general and most level live.
+Human is park live.
 
-Human mind is most general and most level mind.
+Human mind is park mind.
 
-Human can do most general and most level anything.
+Human can do park anything.
 
 The word "human" is park word for live entity.
 
