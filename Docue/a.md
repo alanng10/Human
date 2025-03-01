@@ -58,6 +58,16 @@ Human has park kind arch land.
 
 Human has park class.
 
+Human has park class worth.
+
+Human has park class value.
+
+Human has park class benefit.
+
+Human has park class marry.
+
+Human has park class land.
+
 Human has park class arch.
 
 Human has park class arch worth.
