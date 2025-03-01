@@ -44,6 +44,10 @@ Human has park kind arch.
 
 Human has park kind arch worth.
 
+Human has park kind arch value.
+
+Human has park kind arch benefit.
+
 Human has park class.
 
 Human has park class arch.
