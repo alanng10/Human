@@ -28,6 +28,10 @@ Human has park arch value.
 
 Human has park arch benefit.
 
+Human has park arch marry.
+
+Human has park arch land.
+
 Human has park kind.
 
 Human has park kind worth.
@@ -48,6 +52,10 @@ Human has park kind arch value.
 
 Human has park kind arch benefit.
 
+Human has park kind arch marry.
+
+Human has park kind arch land.
+
 Human has park class.
 
 Human has park class arch.
@@ -57,3 +65,7 @@ Human has park class arch worth.
 Human has park class arch value.
 
 Human has park class arch benefit.
+
+Human has park class arch marry.
+
+Human has park class arch land.
