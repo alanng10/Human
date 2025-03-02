@@ -6,6 +6,8 @@ Human mind is park mind.
 
 Human can do park anything.
 
+Human mind exists forever since mind start.
+
 The word "human" is park word for live entity.
 
 Human is park human.
