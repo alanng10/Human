@@ -10,6 +10,8 @@ Human mind exists forever since mind start.
 
 Human lives forever since mind start.
 
+Human lives in the world when body is available.
+
 The word "human" is park word for live entity.
 
 Human is park human.
