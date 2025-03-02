@@ -8,6 +8,8 @@ Human can do park anything.
 
 Human mind exists forever since mind start.
 
+Human lives forever since mind start.
+
 The word "human" is park word for live entity.
 
 Human is park human.
