@@ -85,3 +85,5 @@ Human has park class arch benefit.
 Human has park class arch marry.
 
 Human has park class arch land.
+
+Human has major.
