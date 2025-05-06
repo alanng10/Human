@@ -86,4 +86,8 @@ Human has park class arch marry.
 
 Human has park class arch land.
 
+Human has park mark.
+
+Human has park cross.
+
 Human has major.
