@@ -95,3 +95,5 @@ Human has major.
 Human has major on live.
 
 Human purpose is live.
+
+Human purpose is only live.
