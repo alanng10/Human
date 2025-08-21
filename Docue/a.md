@@ -97,5 +97,3 @@ Human has major on live.
 Human purpose is live.
 
 Human purpose is only live.
-
-Human live is forever since mind start.
