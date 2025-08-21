@@ -93,3 +93,5 @@ Human has park cross.
 Human has major.
 
 Human has major on live.
+
+Human purpose is live.
