@@ -91,3 +91,5 @@ Human has park mark.
 Human has park cross.
 
 Human has major.
+
+Human has major on live.
